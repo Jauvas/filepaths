@@ -1,0 +1,18 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: indigo;
+    
+}
+
+.h1{
+    color: green;
+}
+#pstyles{
+    background-color: darkblue;
+    color: aqua;
+}
+
+.imagestyle{
+    width: 400px;
+    height: 300px;
+}
